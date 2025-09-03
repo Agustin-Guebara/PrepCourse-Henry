@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-galio
+Proyecto 1
